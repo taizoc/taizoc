@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @taizoc 
 - 👀 I’m interested in cars, technology and music 
 - 🌱 I’m currently learning Linux 
-- 💞️ I’m looking to collaborate on beginner DevOps and bash automation! 
+- 💞️ I’m looking to collaborate on beginner DevOps-- bash & python automation projects! 
 - 📫 How to reach me ... @gmail.com 
 
 <!---
