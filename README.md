@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @taizoc
-- 👀 I’m interested in cars, technology and music
+- 👋 Hi, I’m @taizoc 
+- 👀 I’m interested in cars, technology and music 
 - 🌱 I’m currently learning Linux 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on beginner DevOps and bash automation! 
+- 📫 How to reach me ... @gmail.com 
 
 <!---
 taizoc/taizoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
